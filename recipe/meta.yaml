@@ -1,4 +1,4 @@
-{% set name = "modestimage" %}
+{% set name = "ModestImage" %}
 {% set version = "0.2" %}
 {% set sha256 = "4b71af469f0c4ba73a915c6a96040cc54e81c9ce0c793e6d3e6bb72a99cb53dc" %}
 
